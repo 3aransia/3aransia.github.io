@@ -1,6 +1,6 @@
 # 3aransia
 
-Moroccan Language Recognition Framework 
+Moroccan Latin/Digit Language Support Framework
 
 Email : 3aransia (at) 3aransia (dot) com
 
