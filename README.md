@@ -14,4 +14,4 @@ Links
 - Slack : [3aransia.slack.com](http://3aransia.slack.com)
 
 Communities
-- Facebook groupe : [fb/3aransia_community](https://www.facebook.com/groups/486878891904326/)
+- Facebook groupe : [www.facebook.com/groups/3aransia/](https://www.facebook.com/groups/3aransia/)
