@@ -5,8 +5,8 @@ Moroccan Language Recognition Framework
 Email : 3aransia (at) 3aransia (dot) com
 
 Links 
-- Facebook : [fb.me/3aransia](fb.me/3aransia)
-- Messenger : [m.me/3aransia](m.me/3aransia)
-- Twitter : [twitter.com/3aransia](twitter.com/3aransia)
-- Instagram : [instagram.com/3aransia](instagram.com/3aransia)
-- Github : [github.com/3aransia](github.com/3aransia)
+- Facebook : [fb.me/3aransia](http://fb.me/3aransia)
+- Messenger : [m.me/3aransia](http://m.me/3aransia)
+- Twitter : [twitter.com/3aransia](http://twitter.com/3aransia)
+- Instagram : [instagram.com/3aransia](http://instagram.com/3aransia)
+- Github : [github.com/3aransia](http://github.com/3aransia)
