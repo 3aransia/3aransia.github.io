@@ -1,8 +1,90 @@
 # 3aransia
 
-Moroccan Latin/Digit Language Support Framework
+## Moroccan Latin/Digit Language Framework
 
-Email : 3aransia (at) 3aransia (dot) com
+
+# Abstract
+
+Making the L/D words understandable by the machine and the new technologies.
+
+
+# Examples of the L/D Moroccan Language
+
+
+<table>
+  <tr>
+   <td><strong>L/D Moroccan </strong>
+   </td>
+   <td><strong>Moroccan Arabic</strong>
+   </td>
+   <td><strong>English</strong>
+   </td>
+   <td><strong>Arabic</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Salam
+   </td>
+   <td><p dir="rtl">
+سلام</p>
+
+   </td>
+   <td>Hi
+   </td>
+   <td><p dir="rtl">
+سلام</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>3alim
+   </td>
+   <td><p dir="rtl">
+عالم</p>
+
+   </td>
+   <td>Scientist
+   </td>
+   <td><p dir="rtl">
+عالم</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>7alwa
+   </td>
+   <td><p dir="rtl">
+حلوة</p>
+
+   </td>
+   <td>Cake
+   </td>
+   <td><p dir="rtl">
+كعكة</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>Ga3
+   </td>
+   <td><p dir="rtl">
+ڭاع</p>
+
+   </td>
+   <td>All
+   </td>
+   <td><p dir="rtl">
+الكل</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>9ahwa
+   </td>
+   <td><p dir="rtl">
+     
+     
+Contact : 3aransia (at) 3aransia (dot) com
 
 Links 
 - Website : [3aransia.com](http://3aransia.com)
