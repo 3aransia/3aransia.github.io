@@ -82,6 +82,17 @@ Making the L/D words understandable by the machine and the new technologies.
    <td>9ahwa
    </td>
    <td><p dir="rtl">
+     قهوة</p>
+
+   </td>
+   <td>Coffee
+   </td>
+   <td><p dir="rtl">
+قهوة</p>
+
+   </td>
+  </tr>
+</table>
      
      
 Contact : 3aransia (at) 3aransia (dot) com
