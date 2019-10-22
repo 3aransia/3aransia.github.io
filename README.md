@@ -1,6 +1,5 @@
 # 3aransia
-
-## Moroccan Latin/Digit Language Framework
+### Moroccan Latin/Digit Language Framework
 
 
 # Abstract
@@ -40,7 +39,7 @@ Making the L/D words understandable by the machine and the new technologies.
    <td>3alim
    </td>
    <td><p dir="rtl">
-عالم</p>
+عاليم</p>
 
    </td>
    <td>Scientist
@@ -79,23 +78,24 @@ Making the L/D words understandable by the machine and the new technologies.
    </td>
   </tr>
   <tr>
-   <td>9ahwa
+   <td>9alam
    </td>
    <td><p dir="rtl">
-     قهوة</p>
+     قلام</p>
 
    </td>
-   <td>Coffee
+   <td>Pen
    </td>
    <td><p dir="rtl">
-قهوة</p>
+قلم</p>
 
    </td>
   </tr>
 </table>
      
      
-Contact : 3aransia (at) 3aransia (dot) com
+Contact
+- 3aransia (at) 3aransia (dot) com
 
 Links 
 - Website : [3aransia.com](http://3aransia.com)
@@ -107,4 +107,4 @@ Links
 - Slack : [3aransia.slack.com](http://3aransia.slack.com)
 
 Communities
-- Facebook groupe : [fb.me/groups/3aransia/](https://www.facebook.com/groups/3aransia/)
+- Facebook group : [fb.me/groups/3aransia/](https://www.facebook.com/groups/3aransia/)
