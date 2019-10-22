@@ -1,3 +1,9 @@
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="assets/3aransia_logo.ico">
+</heat>
+
+
+
 # 3aransia
 ### Moroccan Latin/Digit Language Framework
 
