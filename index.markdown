@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 # 3aransia
 ### Moroccan Latin/Digit Language Framework
 
@@ -94,17 +100,5 @@ Making the L/D Moroccan words understandable by the machines and the new technol
 </table>
      
      
-Contact
-- 3aransia (at) 3aransia (dot) com
 
-Links 
-- Website : [3aransia.com](http://3aransia.com)
-- Facebook : [fb.me/3aransia](http://fb.me/3aransia)
-- Messenger : [m.me/3aransia](http://m.me/3aransia)
-- Twitter : [twitter.com/3aransia](http://twitter.com/3aransia)
-- Instagram : [instagram.com/3aransia](http://instagram.com/3aransia)
-- Github : [github.com/3aransia](http://github.com/3aransia)
-- Slack : [3aransia.slack.com](http://3aransia.slack.com)
 
-Communities
-- Facebook group : [fb.me/groups/3aransia/](https://www.facebook.com/groups/3aransia/)
