@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first Open Source Project"
+title:  "Conducting my first open source project with 70 collaborators"
 date:   2019-10-23 05:39:00 +0200
 categories: 3aransia updates
 ---
