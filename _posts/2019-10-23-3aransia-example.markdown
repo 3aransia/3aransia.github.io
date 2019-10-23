@@ -7,13 +7,11 @@ categories: 3aransia updates
 
 # 3aransia
 
-### Moroccan Latin/Digit Language Framework
+## Abstract
 
-# Abstract
+Making the L/D Moroccan and arabian words understandable by the machines and the new technologies.
 
-Making the L/D Moroccan words understandable by the machines and the new technologies.
-
-# Examples of the L/D Moroccan Language
+## Examples of the L/D Moroccan Language
 
 <table>
   <tr>
