@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3aransia - My first Open Source Project"
+title:  "My first Open Source Project"
 date:   2019-10-23 05:39:00 +0200
 categories: 3aransia updates
 ---

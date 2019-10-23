@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3aransia - Abstract"
+title:  "Abstract"
 date:   2019-10-23 05:29:00 +0200
 categories: 3aransia updates
 ---
@@ -9,7 +9,7 @@ categories: 3aransia updates
 
 ## Abstract
 
-Making the L/D Moroccan and arabian words understandable by the machines and the new technologies.
+Making the L/D Moroccan and Arabic words understandable by the new technologies.
 
 ## Examples of the L/D Moroccan Language
 
