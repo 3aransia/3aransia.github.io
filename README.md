@@ -10,7 +10,7 @@
 
 # Abstract
 
-Making the L/D words understandable by the machine and the new technologies.
+Making the L/D words understandable by the machines and the new technologies.
 
 
 # Examples of the L/D Moroccan Language
