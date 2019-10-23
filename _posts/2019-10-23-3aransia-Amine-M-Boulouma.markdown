@@ -21,13 +21,13 @@ This writing type or behavior is common for Moroccan people, specially for texti
 *   Ewa, salamou3alaykom.
 *   Salamou Alaikom.
 
-As we can see from this, there are so many lakhs and challenges to overcome the meaning of such Moroccan discussion. This kind of messages represents more than 75% of our daily discussions. As we can see, A lot of things are going over here:
+As we can see from this, there are so many lacks and challenges to overcome the meaning of such Moroccan discussion. This kind of messages represents more than 75% of our daily discussions. As we can see, A lot of things are going over here:
 
 
 
 *   The syntax is not unified (Hamdolillah, L7amdolillah)
-*   Each Moroccan has its own writing style
-*   You can translate those sentences anywhere
+*   Each Moroccan has his own writing style
+*   You can't translate those sentences anywhere
 *   This is not recognized by the internet (still, we use it every day)
 *   My Google Assistant read L7amdolillah LSevenAmdoulilah
 *   There is no set of rules governing this writing style
