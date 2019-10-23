@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3aransia - Abstract"
-date:   2019-10-23 05:39:00 +0200
+date:   2019-10-23 05:29:00 +0200
 categories: 3aransia updates
 ---
 
@@ -13,9 +13,7 @@ categories: 3aransia updates
 
 Making the L/D Moroccan words understandable by the machines and the new technologies.
 
-
 # Examples of the L/D Moroccan Language
-
 
 <table>
   <tr>
@@ -99,3 +97,13 @@ Making the L/D Moroccan words understandable by the machines and the new technol
    </td>
   </tr>
 </table>
+
+Website : [http://3aransia.com](http://3aransia.com)
+
+Contact : [3aransia@3aransia.com](mailto:3aransia@3aransia.com)
+
+Contribution : [https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md](https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md)
+
+Amine M. Boulouma
+
+Founder and Maintainer at 3aransia
