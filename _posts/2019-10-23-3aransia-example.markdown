@@ -9,7 +9,7 @@ categories: 3aransia updates
 
 ## Abstract
 
-Making the L/D Moroccan and Arabic words understandable by the new technologies.
+Making the Latin/Digit Moroccan and Arabic words understandable by the new technologies.
 
 ## Examples of the L/D Moroccan Language
 
