@@ -98,11 +98,9 @@ Making the L/D Moroccan words understandable by the machines and the new technol
   </tr>
 </table>
 
-Website : [http://3aransia.com](http://3aransia.com)
-
-Contact : [3aransia@3aransia.com](mailto:3aransia@3aransia.com)
-
-Contribution : [https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md](https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md)
+- Website : [http://3aransia.com](http://3aransia.com)
+- Contact : [3aransia@3aransia.com](mailto:3aransia@3aransia.com)
+- Contribution : [https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md](https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md)
 
 Amine M. Boulouma
 

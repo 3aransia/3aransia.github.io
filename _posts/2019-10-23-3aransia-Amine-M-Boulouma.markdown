@@ -103,11 +103,9 @@ I am really happy to announce the successful launch of this project. And want to
 
 The collaborations are still open and anyone can join, I will leave all contact and contribution below.
 
-Website : [http://3aransia.com](http://3aransia.com)
-
-Contact : [3aransia@3aransia.com](mailto:3aransia@3aransia.com)
-
-Contribution : [https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md](https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md)
+- Website : [http://3aransia.com](http://3aransia.com)
+- Contact : [3aransia@3aransia.com](mailto:3aransia@3aransia.com)
+- Contribution : [https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md](https://github.com/3aransia/3aransia/blob/master/CONTRIBUTING.md)
 
 Amine M. Boulouma
 
