@@ -28,7 +28,7 @@ twitter_username: 3aransia
 github_username:  3aransia
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
