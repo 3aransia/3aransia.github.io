@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# 
+
 # 3aransia
 ### Moroccan Latin/Digit Language Framework
 
