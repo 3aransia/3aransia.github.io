@@ -1,6 +1,6 @@
 # 3aransia
 
-### Moroccan Latin/Digit Language Framework
+## Moroccan Latin/Digit Language Framework
 
 # Abstract
 
