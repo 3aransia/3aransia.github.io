@@ -13,5 +13,3 @@ Communities
 
 - Slack : [3aransia.slack.com](http://3aransia.slack.com)
 - Facebook group : [fb.me/groups/3aransia/](https://www.facebook.com/groups/3aransia/)
-
-
