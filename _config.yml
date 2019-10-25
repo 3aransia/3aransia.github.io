@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "3aransia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 3aransia
 github_username:  3aransia
+permalink: /:title
 
 # Build settings
 theme: minima
